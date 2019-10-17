@@ -16,8 +16,5 @@ class Triangle
       raise TriangleError 
     end
   end 
-  
-  class TriangleError < StandardError 
-    puts "Umm"
-  end
+
 end
