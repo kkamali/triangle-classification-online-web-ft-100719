@@ -23,6 +23,3 @@ class Triangle
     puts "Umm"
   end
 end
-
-t = Triangle.new(0,0,0).kind 
-puts t 
